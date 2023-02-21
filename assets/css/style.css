@@ -219,6 +219,7 @@ opacity:1;
 
 .social-icons a {
 	padding: 0 10px;
+	text-decoration: none;
 }
 
 .social-icons a:hover,
